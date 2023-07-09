@@ -9,4 +9,5 @@ The final phase of the project required us to implement a Simple Calculator in M
 3. Multiplication (*)
 4. Division (/)
 5. Modulus (%)
+
 The calculator takes a single integer at a time followed by an operator. Then it takes a second integer and prints the current answer. The calculator will perform the operations till '=' operator is encountered or an error occurs.
